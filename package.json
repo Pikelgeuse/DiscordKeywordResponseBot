@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Highly Regarded Noob dev",
+  "main": "bot.js",
+  "scripts": {
+    "app": "nodemon app",
+    "start": "node app",
+    "test": "call"
+  },
+  "author": "Pikelnoob",
+  "license": "ISC"
+}
